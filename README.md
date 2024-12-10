@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ### Screenshot
-![Screenshot](screenshots\Screenshot_1733821294.png)
+![Screenshot](https://github.com/[username]/[reponame]/blob/[branch]screenshots/Screenshot_1733821294.png)
