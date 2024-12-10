@@ -8,8 +8,9 @@ class CalculatorButton extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return InkWell(
+      borderRadius: BorderRadius.circular(12),
       onTap: onTap,
-      child: Container(
+      child: Ink(
         height: 60,
         width: 60,
         decoration: BoxDecoration(borderRadius: BorderRadius.circular(12),color: Colors.blue[200]), 
